@@ -1,0 +1,2 @@
+dom 0 posta 0
+posta 0 pocet domov 1

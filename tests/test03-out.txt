@@ -1,0 +1,9 @@
+dom 0 posta 1
+dom 1 posta 3
+dom 2 posta 4
+posta 0 pocet domov 0
+posta 1 pocet domov 1
+posta 2 pocet domov 0
+posta 3 pocet domov 1
+posta 4 pocet domov 1
+posta 5 pocet domov 0
